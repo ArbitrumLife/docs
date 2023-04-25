@@ -5,7 +5,7 @@ coverY: 0
 
 # World Expansion
 
-The world is expanding on demand to avoid scarcity.
+Starting from just **100x100**, the world is expanding on demand to avoid scarcity.
 
 When 80% of all available pixels are painted, world size grows by 100 pixels sideways. Repainting already colored pixels does not affect the world size.
 
