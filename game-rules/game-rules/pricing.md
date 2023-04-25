@@ -37,6 +37,6 @@ It stops growing after 255 resells, or \~1795166 ETH, or \~$3,231,299,584 (we si
 
 #### Network fees
 
-Network fees are not included in price calculation. They depend on the number of pixels to be painted and network load. Painting a group of pixels located close generally costs less than painting the same number of pixels in different parts of the world.
+Network fees are not included in price calculation. They depend on the number of pixels to be painted and network load. Painting a group of pixels located closely generally costs less than painting the same number of pixels in different parts of the world.
 
 It is cheaper to paint a lot of pixels at once. The limit is set to 150 per transaction.
