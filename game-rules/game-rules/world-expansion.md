@@ -1,3 +1,8 @@
+---
+cover: ../../.gitbook/assets/Screenshot from 2023-04-25 17-47-14.png
+coverY: 0
+---
+
 # World Expansion
 
 The world is expanding on demand to avoid scarcity.
