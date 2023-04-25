@@ -11,3 +11,9 @@ coverY: 0
 The gameplay is centered around painting pixels on a slowly expanding 2D map.
 
 Express your creativity, paint on top of others or just leave your tag - anything is possible in this life.
+
+### Follow us on social media
+
+* [Discord](https://discord.com/invite/ZqvNSncjWY)
+* [Twitter](https://twitter.com/Arbitrum\_Life)
+* [Telegram](https://t.me/arbitrum\_life)
