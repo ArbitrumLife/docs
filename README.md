@@ -10,4 +10,4 @@ coverY: 0
 
 The gameplay is centered around painting pixels on a slowly expanding 2D map.
 
-Express your creativity or just leave your tag - everything is possible in this life.
+Express your creativity, paint on top of others or just leave your tag - anything is possible in this life.
