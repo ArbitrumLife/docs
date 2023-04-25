@@ -8,7 +8,7 @@ coverY: 0
 
 <figure><img src=".gitbook/assets/Screenshot from 2023-04-25 17-44-52.png" alt=""><figcaption><p>ARBITRUM.LIFE gameplay preview</p></figcaption></figure>
 
-The gameplay is centered around painting pixels on a slowly expanding 2D map.
+The gameplay is built around painting pixels on a slowly expanding 2D map.
 
 Express your creativity, paint on top of others or just leave your tag - anything is possible in this life.
 
