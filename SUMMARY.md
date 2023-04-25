@@ -3,8 +3,8 @@
 ## Game Rules
 
 * [Game Rules](README.md)
-  * [Pricing](game-rules/game-rules/pricing.md)
   * [World Expansion](game-rules/game-rules/world-expansion.md)
+  * [Pricing](game-rules/game-rules/pricing.md)
 
 ***
 
