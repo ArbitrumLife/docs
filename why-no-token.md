@@ -1,3 +1,8 @@
+---
+cover: .gitbook/assets/eth.png
+coverY: 0
+---
+
 # Why no token?
 
 ETH payouts mean that our game does not have a token. Why?
