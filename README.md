@@ -1,5 +1,5 @@
 ---
-description: ARBITRUM.LIFE is a web3 game set to launch in May 2023 on Arbitrum.
+description: ARBITRUM.LIFE is a web3 game set to launch in Q2 2023 on Arbitrum.
 cover: .gitbook/assets/Screenshot from 2023-04-25 17-47-14.png
 coverY: 0
 ---
