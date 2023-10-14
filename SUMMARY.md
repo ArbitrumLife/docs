@@ -12,3 +12,4 @@
 
 * [Social Media](social-media.md)
 * [Why no token?](why-no-token.md)
+* [Contract address](contract-address.md)
